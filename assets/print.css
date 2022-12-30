@@ -1,0 +1,13 @@
+body {
+  background-color: #fff !important;
+  color: black !important;
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+.header {
+  display: none;
+}
+
+.footer {
+  display: none;
+}
